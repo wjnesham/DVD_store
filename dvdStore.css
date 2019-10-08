@@ -1,0 +1,30 @@
+/* 
+    Author     : William Nesham
+    Created on : Sep 15, 2017, 4:13:12 PM    
+    For        : CS 4010 HW1 
+*/
+
+h1{
+    color: background;
+}
+
+b {
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align:center;
+}
+
+input[type=number]{
+    max-width: 35px;
+}
+
+img {
+    width: 120px;
+    height:180px;
+    padding-top: 3px;
+}
